@@ -1,3 +1,12 @@
+### Git 데이터 설명
+| 폴더명 | 설명 |
+|--|--|
+| crawl | codes 폴더에 코드<br>csv 폴더에 코드 실행 결과 생성된 csv 파일 |
+| analysis & visualizations | jupyter notebook(lab)으로 작업<br>전반기(before), 후반기(after) 코드 |
+| presentations | 발표 ppt |
+
+---
+
 ### 주제
 - 기업의 가치에 영향을 주는 변수 탐색
 
@@ -8,7 +17,7 @@
 
 ### 데이터베이스 : 코로나 확진자 수 & 주식 정보
 
-| Table | Description |
+| 테이블 | 설명 |
 |---|---|
 | covid19_daily | 코로나19 일일 확진자 수 |
 | finance | 주식 일일 시세 정보 |
@@ -27,3 +36,5 @@
 
 ### 분석 및 시각화
 - 상관관계 분석 결과 전반기 후반기 전체적으로 양의 상관관계 발견
+
+---
